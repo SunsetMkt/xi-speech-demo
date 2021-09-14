@@ -11,9 +11,9 @@ import MuiAlert from '@material-ui/lab/Alert';
 import Avatar from '@material-ui/core/Avatar';
 import GitHubIcon from '@material-ui/icons/GitHub'
 
-const TASK_CREATING_API = "https://xi-speech-synthesizer.herokuapp.com/task";
-const PROGRESS_TRACKING_API = "https://xi-speech-synthesizer.herokuapp.com/progress";
-const RESULT_RETRIEVING_API = "https://xi-speech-synthesizer.herokuapp.com/result";
+const TASK_CREATING_API = "https://xi-speech-clone.herokuapp.com/task";
+const PROGRESS_TRACKING_API = "https://xi-speech-clone.herokuapp.com/progress";
+const RESULT_RETRIEVING_API = "https://xi-speech-clone.herokuapp.com/result";
 const RESULT_DELETING_API = "https://xi-speech-synthesizer.herokuapp.com/result";
 
 function Alert(props) {
